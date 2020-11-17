@@ -1,0 +1,25 @@
+﻿  App.cpp
+C:\Users\ericb\source\repos\Asteroids\Asteroids\Ship.h(33,44): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ericb\source\repos\Asteroids\Asteroids\Ship.h(34,45): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ericb\source\repos\Asteroids\Asteroids\Asteroid.h(20,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Engine.cpp
+C:\Users\ericb\source\repos\Asteroids\Asteroids\Ship.h(33,44): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ericb\source\repos\Asteroids\Asteroids\Ship.h(34,45): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ericb\source\repos\Asteroids\Asteroids\Asteroid.h(20,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ericb\source\repos\Asteroids\Asteroids\Engine.cpp(23,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ericb\source\repos\Asteroids\Asteroids\Engine.cpp(24,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ericb\source\repos\Asteroids\Asteroids\Engine.cpp(119,32): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  FloatingObject.cpp
+C:\Users\ericb\source\repos\Asteroids\Asteroids\FloatingObject.cpp(6,15): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Projectile.cpp
+  Ship.cpp
+C:\Users\ericb\source\repos\Asteroids\Asteroids\Ship.h(33,44): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ericb\source\repos\Asteroids\Asteroids\Ship.h(34,45): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ericb\source\repos\Asteroids\Asteroids\Ship.cpp(100,19): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\ericb\source\repos\Asteroids\Asteroids\Ship.cpp(110,20): warning C4305: '-=': truncation from 'double' to 'float'
+  Walls.cpp
+C:\Users\ericb\source\repos\Asteroids\Asteroids\Ship.h(33,44): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ericb\source\repos\Asteroids\Asteroids\Ship.h(34,45): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ericb\source\repos\Asteroids\Asteroids\Asteroid.h(20,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating Code...
+  Asteroids.vcxproj -> C:\Users\ericb\source\repos\Asteroids\Debug\Asteroids.exe
